@@ -10,7 +10,10 @@ HTML
 CSS
 Git 
 GitHub
-![Tela Original](https://github.com/feliper107/ProgramacaoWeb/blob/main/Captura%20de%20tela%202026-10-10%20202525.png))
 
+Pagina Original
+![Tela Original](https://github.com/feliper107/ProgramacaoWeb/blob/main/Captura%20de%20tela%202026-10-10%20202525.png)
+
+Pagina alterada com o DevTools
 ![Texto Alternativo](https://github.com/feliper107/ProgramacaoWeb/blob/f33d06fc9006062b9cac0712b16578af57a95ddd/Captura%20de%20tela%202026-10-10%20202506.png)
 
