@@ -10,3 +10,6 @@ HTML
 CSS
 Git 
 GitHub
+
+![Texto Alternativo](https://github.com/feliper107/ProgramacaoWeb/blob/f33d06fc9006062b9cac0712b16578af57a95ddd/Captura%20de%20tela%202026-10-10%20202506.png)
+
